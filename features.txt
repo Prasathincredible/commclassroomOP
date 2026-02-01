@@ -1,3 +1,7 @@
 This is Kunal Kushwaha's learning tutorial 
 
-Adding some features to features.txt
+Adding lots of  features to features.txt
+
+Adding three features in features.txt
+
+Adding new features in features.txt
